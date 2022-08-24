@@ -1,0 +1,15 @@
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\bin\Debug\EntityFrame.exe.config
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\bin\Debug\EntityFrame.exe
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\bin\Debug\EntityFrame.pdb
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\bin\Debug\EntityFramework.dll
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\bin\Debug\EntityFramework.xml
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\obj\Debug\EntityFrame.csprojAssemblyReference.cache
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\obj\Debug\EntityFrame.Form1.resources
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\obj\Debug\EntityFrame.Properties.Resources.resources
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\obj\Debug\EntityFrame.csproj.GenerateResource.cache
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\obj\Debug\EntityFrame.csproj.CoreCompileInputs.cache
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\obj\Debug\EntityFrame.csproj.CopyComplete
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\obj\Debug\EntityFrame.exe
+C:\Users\stajyer2\c#-demos\entity\EntityFrame\EntityFrame\obj\Debug\EntityFrame.pdb
